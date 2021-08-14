@@ -65,13 +65,13 @@
         prop="createTime"
         header-align="center"
         align="center"
-        label="创建时间"
+        label="商品创建时间"
       ></el-table-column>
       <el-table-column
         prop="updateTime"
         header-align="center"
         align="center"
-        label="修改时间"
+        label="商品上架时间"
       ></el-table-column>
       <el-table-column
         fixed="right"
